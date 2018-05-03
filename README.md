@@ -19,4 +19,5 @@ the project and course.
 ---
 
 Project Description
+
 (Input project description here)
