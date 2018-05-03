@@ -5,9 +5,9 @@ Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to t
 In particular, I have:
 
 Clearly acknowledged the work and efforts of others when submitting written work as our own.
-The incorporation of the work of others{including but not limited to their ideas, data, creative
+The incorporation of the work of others - including but not limited to their ideas, data, creative
 expression, and direct quotations (which should be designated with quotation marks), or para-
-phrasing thereof{ has been fully and appropriately referenced using notations both in the text
+phrasing thereof) has been fully and appropriately referenced using notations both in the text
 and the bibliography.
 
 And I understand that:
