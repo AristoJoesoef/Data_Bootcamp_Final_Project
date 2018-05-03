@@ -1,6 +1,6 @@
 # Data_Bootcamp_Final_Project
 
-This project was completed by Aristo Phedro Joesoef here in partial fulfilment of ECON-UB.0232,
+This project was completed by **Aristo Phedro Joesoef** here in partial fulfilment of ECON-UB.0232,
 Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to this project.
 In particular, I have:
 
