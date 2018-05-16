@@ -20,4 +20,4 @@ the project and course.
 
 Project Description
 
-This project will explore the effects of weather (and other parameters) on MTA subway ridership. I posit that weather (whether it is sunny, raining, snowing etc.) will affect people's willingness to take the subway instead of walking or using other means of transportation (e.g. CitiBike, and other available non-underground transport data).
+This project will explore the effects of weather (and other parameters) on MTA subway ridership. I posit that weather (whether it is sunny, raining, snowing etc.) will affect people's willingness to take the subway instead of walking or using other means of transportation (e.g. CitiBike, and other available non-underground transport data). The analysis of the possible correlation between weather and subway ridership and Citibike usage led to interesting results, which can be justified but does not necessarily conform to a priori beliefs.
